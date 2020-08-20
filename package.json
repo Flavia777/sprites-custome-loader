@@ -1,0 +1,23 @@
+{
+  "name": "sprites-loader",
+  "version": "1.0.0",
+  "description": "Group to generate sprite diagram",
+  "main": "index.js",
+  "keywords": [
+    "sprites-loader",
+    "webpack",
+    "sprite",
+    "webpack-sprite"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sprites-loader",
+  "license": "MIT",
+  "dependencies": {
+    "loader-utils": "^2.0.0",
+    "mkdirp": "^1.0.4",
+    "spritesmith": "^3.4.0"
+  },
+  "devDependencies": {}
+}
